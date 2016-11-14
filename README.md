@@ -81,6 +81,7 @@
 **使用patch更新**
     - patch更新与webshare更新方法不冲突，在有patch的时候，优先使用patch更新
     使用此方法做更新，需要保留上一个版本的webshare（备份），并且打出最新的webshare
+    
 1. 备份上一个版本的webshare（脚本自动备份）
 2. 导出最新的webshare（参考上面的过程）
 3. 修改`build_patch_update_android/ios.bat`脚本，对应旧版本的webshare和新版本webshare目录
