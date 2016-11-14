@@ -79,6 +79,7 @@
 
 
 **使用patch更新**
+
     - patch更新与webshare更新方法不冲突，在有patch的时候，优先使用patch更新
     使用此方法做更新，需要保留上一个版本的webshare（备份），并且打出最新的webshare
     
